@@ -1,1 +1,12 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/l9v8sNrv)
+# Welcome to My World
+
+## Web preview
+![preview](https://github.com/RevoU-FSSE-2/week-1-fadli131.git)
+
+## My first assignment at Revou fullstack bootcamp
+Website deployment: [Click here](https://dapper-sable-c60f63.netlify.app/)
+### Website content 
+- CSS File
+- Image File
+- HTML
+- Add basic javascript for button alert
